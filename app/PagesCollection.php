@@ -35,7 +35,7 @@ class PagesCollection implements IteratorAggregate
     }
 
     /**
-     * Permet de filtrer la collection afin d'obtenir les pages correspondantes au critère
+     * Permits to filter the collection in order to get meeting criterias' pages
      * @param string $key
      * @param string $value
      * @return $this
